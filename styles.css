@@ -2,8 +2,8 @@
 .box{
 	height:200px;
 	width:200px;
-	background-color:navy;
-	border:2px solid white;
+	background-color:aquamarine;
+	border-top-width:2px;
 	position:absolute;
 	top:50%;
 	left:50%;
