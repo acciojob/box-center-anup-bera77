@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.box{
+	height:200px;
+	width:200px;
+	background-color:navy;
+	border:2px solid white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color:purple;
+}
